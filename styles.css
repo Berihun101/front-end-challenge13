@@ -3,7 +3,7 @@ font-family: "PlusJakartaSans-ExtraBold";
 src: url("assets/fonts/static/PlusJakartaSans-ExtraBold.ttf");
 }
 @font-face {
-font-family: "plusjakartasans-medium";
+font-family: "PlusJakartaSans-Medium";
 src: url("assets/fonts/static/PlusJakartaSans-Medium.ttf");
 }
 
@@ -45,7 +45,7 @@ h4{
 }
 .header a{
   font-size: 0.85rem;
-  font-family: "plusjakartasans-medium";
+  font-family: "PlusJakartaSans-Medium";
   color: hsl(219, 12%, 42%);
   text-decoration: none;
 }
@@ -81,7 +81,7 @@ h4{
 }
 .notfi p:not(span){
 color: hsl(219, 12%, 42%);
-font-family:"plusjakartasans-medium"
+font-family:"PlusJakartaSans-Medium"
 }
 .names{
   color: hsl(224, 21%, 14%);
