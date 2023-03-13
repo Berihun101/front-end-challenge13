@@ -1,5 +1,5 @@
 @font-face {
-font-family: "plusjakartasans-Bold";
+font-family: "PlusJakartaSans-ExtraBold";
 src: url("assets/fonts/static/PlusJakartaSans-ExtraBold.ttf");
 }
 @font-face {
@@ -26,7 +26,7 @@ body{
   background-color: hsl(205, 33%, 90%);
 }
 h4{
-  font-family: "plusjakartasans-Bold";
+  font-family: "PlusJakartaSans-ExtraBold";
   font-size: 1.25rem;
 }
 .container{
@@ -85,7 +85,7 @@ font-family:"plusjakartasans-medium"
 }
 .names{
   color: hsl(224, 21%, 14%);
-  font-family: "plusjakartasans-Bold";
+  font-family: "PlusJakartaSans-ExtraBold";
   cursor: pointer;
 }
 .names:hover{
